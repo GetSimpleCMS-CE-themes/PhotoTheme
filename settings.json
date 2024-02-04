@@ -1,0 +1,145 @@
+{
+    "settings": {
+        "animation": {
+            "type": "dropdown",
+            "options": "yes || no",
+            "title": "Animation on theme?",
+            "value": "yes"
+        },
+        "rootcolor": {
+            "type": "color",
+            "title": "root color",
+            "value": "#ff0000"
+        },
+        "name": {
+            "type": "text",
+            "title": "name website (in logo place)",
+            "value": "Photo<b>Theme</b>"
+        },
+        "hero": {
+            "type": "image",
+            "title": "hero image",
+            "value": ""
+        },
+        "herotitle": {
+            "type": "wysywig",
+            "title": "hero title",
+            "value": "<h1><span>Perfect</span> Photography</h1>\r\n\r\n<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, ex!</p>\r\n"
+        },
+        "box1": {
+            "type": "wysywig",
+            "title": "box1",
+            "value": ""
+        },
+        "box1link": {
+            "type": "link",
+            "title": "box1 link",
+            "value": "http://localhost/about-us"
+        },
+        "box2": {
+            "type": "wysywig",
+            "title": "box2",
+            "value": ""
+        },
+        "box2link": {
+            "type": "link",
+            "title": "box2 link",
+            "value": null
+        },
+        "box3": {
+            "type": "wysywig",
+            "title": "box3",
+            "value": ""
+        },
+        "box3link": {
+            "type": "link",
+            "title": "box3 link",
+            "value": "http://localhost/about-us"
+        },
+        "boxreadmore": {
+            "type": "text",
+            "title": "box `read more` text",
+            "value": "Read more"
+        },
+        "aboutfoto1": {
+            "type": "image",
+            "title": "about foto 1",
+            "value": ""
+        },
+        "aboutfoto2": {
+            "type": "image",
+            "title": "about foto 2",
+            "value": ""
+        },
+        "about": {
+            "type": "wysywig",
+            "title": "About on homepage",
+            "value": "<h2>Lorem ipsum dolor sit.</h2>\r\n\r\n<p class=\"lead\">Lorem ipsum dolor seit amet consectetur adipisicing elit. Aperiam ipsa atque laboriosam? Aperiam necessitatibus nihil, eos dolores dicta maxime ipsum quos accusantium beatae impedit incidunt sint voluptate similique.</p>\r\n\r\n<p>Lorem ipsum dolor seit amet consectetur adipisicing elit. Aperiam ipsa atque laboriosam? Aperiam necessitatibus nihil, eos dolores dicta maxime ipsum quos accusantium beatae impedit incidunt sint voluptate similique. Magni reprehenderit dolorem officia quod quam corrupti assumenda voluptates aspernatur fuga praesentium. Unde labore, dolore veritatis dolorum architecto soluta asperiores consequatur natus?</p>\r\n"
+        },
+        "linker1": {
+            "type": "image",
+            "title": "linker1 foto",
+            "value": ""
+        },
+        "linker1t": {
+            "type": "text",
+            "title": "linker1 text",
+            "value": ""
+        },
+        "linker1l": {
+            "type": "link",
+            "title": "linker1 link",
+            "value": null
+        },
+        "linker2": {
+            "type": "image",
+            "title": "linker2 foto",
+            "value": ""
+        },
+        "linker2t": {
+            "type": "text",
+            "title": "linker2 text",
+            "value": ""
+        },
+        "linker2l": {
+            "type": "link",
+            "title": "linker2 link",
+            "value": null
+        },
+        "linker3": {
+            "type": "image",
+            "title": "linker3 foto",
+            "value": ""
+        },
+        "linker3t": {
+            "type": "text",
+            "title": "linker3 text",
+            "value": ""
+        },
+        "linker3l": {
+            "type": "link",
+            "title": "linker3 link",
+            "value": null
+        },
+        "linker4": {
+            "type": "image",
+            "title": "linker4 foto",
+            "value": ""
+        },
+        "linker4t": {
+            "type": "text",
+            "title": "linker4 text",
+            "value": ""
+        },
+        "linker4l": {
+            "type": "link",
+            "title": "linker4 link",
+            "value": null
+        },
+        "footer": {
+            "type": "wysywig",
+            "title": "footer",
+            "value": "<h3>Lorem ipsum</h3>\r\n\r\n<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic voluptas, ratione nostrum consequatur maiores dolore officia voluptatibus. Accusamus nemo sequi numquam. Expedita cupiditate ea magnam earum id adipisci eveniet maxime.</p>\r\n"
+        }
+    }
+}
