@@ -21,3 +21,5 @@ Compatible with:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nTtFUsatyJU/0.jpg)](https://www.youtube.com/watch?v=nTtFUsatyJU)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I2RHQZS)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TW6PXVCTM5A72)
