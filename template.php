@@ -1,11 +1,5 @@
-<?php if (!defined('IN_GS')) {
-    die('you cannot load this page directly.');
-}
-
-?>
-
+<?php if (!defined('IN_GS')) { die('you cannot load this page directly.'); } ?>
 <?php include('header.inc.php'); ?>
-
 
 <header class="title">
 	<img src="
@@ -24,7 +18,5 @@
 <main class="wrapper main-section" data-aos="fade-down" data-aos-duration="700">
 	<?php get_page_content(); ?>
 </main>
-
-
 
 <?php include('footer.inc.php'); ?>
