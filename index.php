@@ -1,8 +1,4 @@
-<?php if (!defined('IN_GS')) {
-    die('you cannot load this page directly.');
-}
-
-?>
+<?php if (!defined('IN_GS')) { die('you cannot load this page directly.'); } ?>
 
 <?php include('header.inc.php'); ?>
 
@@ -24,9 +20,7 @@
 	</div>
 </header>
 
-
 <section class="boxes wrapper">
-
 
 	<div class="boxes-item" data-aos="fade-right" data-aos-duration="500">
 
@@ -44,7 +38,6 @@
 			</svg>
 		</a>
 	</div>
-
 
 	<div class="boxes-item" data-aos="fade-right" data-aos-delay="200" data-aos-duration="500">
 
@@ -79,9 +72,7 @@
 		</a>
 	</div>
 
-
 </section>
-
 
 <section class="about-section" data-aos="fade-in" data-aos-duration="500">
 	<div class="wrapper about-section-content">
@@ -111,7 +102,6 @@
 	</div>
 </section>
 
-
 <section class="link-section">
 
 	<a class="link-section-link" href="<?php echo r_mats('linker1l') !== '' || r_mats !== null ? r_mats('linker1l') : '#'; ?>">
@@ -125,7 +115,6 @@
 		<h4 class="link-section-link-title"><?php echo r_mats('linker1t') !== '' ? r_mats('linker1t') : 'Lorem ipsum'; ?></h4>
 	</a>
 
-
 	<a class="link-section-link" href="<?php echo r_mats('linker2l') !== '' || r_mats !== null ? r_mats('linker2l') : '#'; ?>">
 		<img src="
 		<?php if (r_mats('linker2') !== '') : ?>
@@ -137,7 +126,6 @@
 		<h4 class="link-section-link-title"><?php echo r_mats('linker2t') !== '' ? r_mats('linker2t') : 'Lorem ipsum'; ?></h4>
 	</a>
 
-
 	<a class="link-section-link" href="<?php echo r_mats('linker3l') !== '' || r_mats !== null ? r_mats('linker3l') : '#'; ?>">
 		<img src="
 		<?php if (r_mats('linker3') !== '') : ?>
@@ -148,7 +136,6 @@
 		" alt="">
 		<h4 class="link-section-link-title"><?php echo r_mats('linker3t') !== '' ? r_mats('linker3t') : 'Lorem ipsum'; ?></h4>
 	</a>
-
 
 	<a class="link-section-link" href="<?php echo r_mats('linker4l') !== '' || r_mats !== null ? r_mats('linker4l') : '#'; ?>">
 		<img src="
@@ -162,7 +149,5 @@
 	</a>
 
 </section>
-
-
 
 <?php include('footer.inc.php'); ?>
